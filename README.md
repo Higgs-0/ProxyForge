@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/proxyforge/proxyforge">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/higgs-0/proxyforge">
     <img src="https://vercel.com/button" alt="Deploy with Vercel">
   </a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/proxyforge/proxyforge">
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/higgs-0/proxyforge">
     <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
   </a>
 </p>
@@ -81,7 +81,7 @@ All conversions happen entirely in your browser. Your configuration data never l
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/proxyforge/proxyforge)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/higgs-0/proxyforge)
 
 ### Deploy to Cloudflare Pages
 
@@ -96,7 +96,7 @@ All conversions happen entirely in your browser. Your configuration data never l
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/proxyforge/proxyforge)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/higgs-0/proxyforge)
 
 ### Deploy to GitHub Pages
 
@@ -217,5 +217,5 @@ This tool is for educational and personal use only. Please ensure you have the r
 ---
 
 <p align="center">
-  Made with ❤️ by the ProxyForge team
+  Made with ❤️ by Higgs
 </p>
