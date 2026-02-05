@@ -79,11 +79,11 @@ All conversions happen entirely in your browser. Your configuration data never l
 
 ## 🛠️ One-Click Deploy
 
-### Deploy to Vercel
+### <font color=red>Deploy to Vercel</font>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/higgs-0/proxyforge)
 
-### Deploy to Cloudflare Pages
+### <font color=red>Deploy to Cloudflare Pages</font>
 
 1. Fork this repository
 2. Go to [Cloudflare Pages](https://dash.cloudflare.com/?to=/:account/pages/new/git)
@@ -94,11 +94,11 @@ All conversions happen entirely in your browser. Your configuration data never l
    - **Build output directory**: `dist`
 5. Click "Save and Deploy"
 
-### Deploy to Netlify
+### <font color=red>Deploy to Netlify</font>
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/higgs-0/proxyforge)
 
-### Deploy to GitHub Pages
+### <font color=red>Deploy to GitHub Pages</font>
 
 1. Fork this repository
 2. Go to Settings > Pages
@@ -116,7 +116,7 @@ All conversions happen entirely in your browser. Your configuration data never l
 
 ```bash
 # Clone the repository
-git clone https://github.com/proxyforge/proxyforge.git
+git clone https://github.com/higgs-0/proxyforge.git
 cd proxyforge
 
 # Install dependencies
